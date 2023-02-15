@@ -87,3 +87,7 @@ function pullMapCities() {
 }
 
 pullMapCities()
+
+map.on('moveend', function (e) {
+    pullMapCities();
+});
