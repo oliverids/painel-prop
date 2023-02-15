@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,500;0,600;0,700;1,400&family=Inter&display=swap');
+
+$narrow: 'Archivo Narrow', sans-serif;
+$inter: 'Inter', sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $narrow;
+}
+
+ul {
+    list-style: none;
+}
+
+a, button {
+    cursor: pointer;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+body {
+    font-size: 16px;
+    font-family: $inter;
+    background: #F9FAFA;
+}
+
+button {
+    font-size: 1rem;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    padding: 0 1rem;
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "cidade": {
+            "nome": "Serra",
+            "lat": -20.128889,
+            "lon": -40.307778
+        }
+    },
+    {
+        "cidade": {
+            "nome": "Guarapari",
+            "lat": -20.657778,
+            "lon": -40.510833
+        }
+    },
+    {
+        "cidade": {
+            "nome": "Afonso Cláudio",
+            "lat": -20.046670933046926,
+            "lon": -41.112412214680496
+        }
+    },
+    {
+        "cidade": {
+            "nome": "Cachoeiro de Itapemirim",
+            "lat": -20.848889,
+            "lon": -41.112778
+        }
+    },
+    {
+        "cidade": {
+            "nome": "Linhares",
+            "lat": -19.390833,
+            "lon": -40.071944
+        }
+    }
+]
